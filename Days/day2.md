@@ -5,38 +5,62 @@ Recently, I spent some time exploring the realm of containerization and stumbled
 ### **Key Takeaways from the Video:**
 
 1. **Introduction to LXD**:
-   - I was introduced to LXD (pronounced "lex-dee"), which is an advanced container manager developed by Canonical. What intrigued me most is how LXD offers an experience similar to VMs but retains the nimbleness of containers.
+   
+   I was introduced to LXD (pronounced "lex-dee"), which is an advanced container manager developed by Canonical. What intrigued me most is how LXD offers an experience similar to VMs but retains the nimbleness of containers.
 
-2. **Basics of LXD**:
-   - The video demonstrated the initialization process of LXD using `lxc init`, which felt straightforward and user-friendly.
-   - Creating containers seemed quite easy and was done using the `lxc launch` command, followed by the image and container name.
+3. **Installing LXD and Setting Up the Profile**:
 
-3. **Container Management**:
-   - One of the things I appreciated was the simplicity with which containers could be managed. Starting, stopping, and even restarting containers were straightforward commands.
-   - I learned about the cleanup process of containers using the `lxc delete` command, which will certainly be helpful in maintaining a clutter-free environment.
+   Installation: ``sudo apt install lxd``
 
-4. **Snapshotting and Rollback**:
-   - I was quite intrigued by the snapshotting feature in LXD, which allows for creating, restoring, and even deleting snapshots of containers. It's a handy feature for testing out new configurations without affecting the primary setup.
+   Initialize LXD: ``lxd init``
 
-5. **Customization of Containers**:
-   - The video emphasized the importance of customizing containers, which could be done by setting up auto-start features and even configuring memory limits. I found these tips very resourceful for optimizing container performance.
+   For easy access: ``sudo usermod -aG lxd $USER``
 
-### **Advanced Features I Discovered:**
+3. **Launching Containers**:
 
-1. **Clustering**:
-   - The video introduced the concept of clustering, where multiple LXD servers could be linked together, offering scalability.
+   To launch a Debian container: ``lxc launch images:debian/10 debian-container``
 
-2. **Versatile Storage Management**:
-   - The video discussed various storage backends supported by LXD, like ZFS, LVM, and Ceph. It also delved into the creation of storage pools, adding another layer to container management.
+   Checking active containers: ``lxc list``
 
-3. **Networking Essentials**:
-   - I learned about LXD's approach to networking, where containers are assigned private IPs by default. The process of creating new network bridges and even attaching containers to a specific network was clearly demonstrated.
+4. **Working with the Containers**:
 
-4. **Security and Limitations**:
-   - The video underscored the importance of container security. I was introduced to methods like AppArmor profiles and seccomp policies. Furthermore, I learned about setting up CPU limits and ensuring resource optimization.
+   To view the contents of a file within a container (like checking OS details): ``lxc exec debian-container -- cat /etc/os-release``
 
-5. **Backup Procedures**:
-   - One of the standout features for me was the process of exporting and importing containers. This ensures data safety and easy migration of containers across environments.
+5. **Managing Containers**:
+
+   Stopping a container: ``lxc stop [container-name]``
+
+   Starting a container: ``lxc start [container-name]``
+
+   Restarting a container: This was inferred, but the general syntax is likely ``lxc restart [container-name]``.
+
+6. **Deleting a container**:
+   
+   First, stop it: ``lxc stop [container-name]``
+
+   Then delete: ``lxc delete [container-name]``
+
+7. **Using Snapshots**:
+
+   Creating a snapshot: ``lxc snapshot [container-name] mysnap1``
+
+   Viewing snapshot info: ``lxc info [container-name]``
+
+   Deleting a snapshot: ``lxc delete [container-name] mysnap1``
+
+   Restoring a snapshot: ``lxc restore [container-name] mysnap1``
+
+8. **Configuring Containers**:
+
+   Setting a container to autostart: ``lxc config set [container-name] boot.autostart 1``
+
+   Limiting a container's memory usage: ``lxc config set [container-name] limits.memory 1GB``
+
+   Viewing a container’s configuration: ``lxc config show [container-name]``
+
+   Setting a startup delay: ``lxc config set [container-name] boot.autostart.delay 30``
+
+   Specifying the order in which containers start: ``lxc config set [container-name] boot.autostart.priority 8``
 
 ### **Final Thoughts:**
 
