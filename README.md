@@ -12,8 +12,7 @@ Follow along day by day! Each day has its unique set of challenges, achievements
 
 - [**Day 1**](https://github.com/ibilalkayy/100-Days-Of-OSS/blob/main/Days/day1.md)
 - [**Day 2**](https://github.com/ibilalkayy/100-Days-Of-OSS/blob/main/Days/day2.md)
-- [**Day 3**](https://github.com/ibilalkayy/100-Days-Of-OSS/blob/main/Days/day3.md)
-
+  
 ## Getting Involved 🤝
 
 Want to join the journey or have any suggestions, tips, or projects in mind? Feel free to [open an issue](https://github.com/ibilalkayy/100-Days-Of-OSS/issues) or [submit a pull request](https://github.com/ibilalkayy/100-Days-Of-OSS/pulls). Your feedback and contributions are always welcome!
