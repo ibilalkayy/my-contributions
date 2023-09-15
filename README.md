@@ -1,26 +1,54 @@
-# 100 Days Of Open Source Software (OSS)
+# PR-Journey 🌟
 
-🚀 Welcome to the **100 Days Of OSS** journey! In this repository, you'll find my progress, experiences, and contributions throughout a 100-day dedication to open-source software. Whether you're here for inspiration or curiosity, I'm excited to share this journey with you.
+Welcome to my **PR-Journey** repository! Here, I document my contributions and pull requests across various projects. Dive in and witness my journey through the realm of open source! 🚀
 
-## Introduction 🌟
+## 🎯 Repository Goals
 
-Open-source software (OSS) is a testament to the power of collaboration, transparency, and community-driven development. The very idea of sharing code openly, allowing anyone to modify and redistribute it, has shaped much of today's digital world. With this initiative, I'm diving deep into the open-source world, learning from it, contributing to it, and sharing my daily insights and experiences.
+This repository aims to:
 
-## Progress Menu 🗓
+- Track my progress in open source contributions
+- Encourage others to start their journey in open source
+- Provide a collaborative space to share experiences and feedback
 
-Follow along day by day! Each day has its unique set of challenges, achievements, and learning. Click on the day to see detailed information about my progress.
+## 🌍 Pull Requests
 
-- [**Day 1**](https://github.com/ibilalkayy/100-Days-Of-OSS/blob/main/Days/day1.md)
-- [**Day 2**](https://github.com/ibilalkayy/100-Days-Of-OSS/blob/main/Days/day2.md)
-  
-## Getting Involved 🤝
+Every pull request tells a story. Here's a snapshot of my contributions:
 
-Want to join the journey or have any suggestions, tips, or projects in mind? Feel free to [open an issue](https://github.com/ibilalkayy/100-Days-Of-OSS/issues) or [submit a pull request](https://github.com/ibilalkayy/100-Days-Of-OSS/pulls). Your feedback and contributions are always welcome!
+<!-- Add your pull requests in this format -->
+### 1️⃣ [Pull Request #1](https://github.com/canonical/lxd/pull/12124)
 
-## License 📜
+**Project**: LXD (Canonical)  
+**Description**: I added commits 288 commits in on PR by adding the comments above most of the functions in the LXD repository files.
 
-This project is open-source under the [Apache 2.0 License](LICENSE).
+## 📚 Learning Outcomes
 
-🔗 [Back to Top](#100-days-of-open-source-software-oss)
+- **Collaboration**: Engaging with various developers has enriched my teamwork skills.
+- **Technical Growth**: Every PR presented a unique challenge, pushing me to learn and adapt.
+- **Community**: Being part of various communities taught me the importance of collective effort.
 
-I hope this helps you to create a strong introduction and representation of your project. Remember to customize and add any other sections or details you deem relevant. Best of luck with your 100 Days Of OSS challenge!
+## 🗺 Future Plans
+
+In the coming months, I plan to:
+
+- Engage with more projects that align with my interests
+- Take on larger challenges and feature additions
+- Possibly maintain my open-source project
+
+## 💡 How to Contribute
+
+Open to suggestions or improvements? Let's collaborate:
+
+- **Open an issue**: Identify a bug or suggest a feature? Let's discuss it!
+- **Submit a pull request**: Fork, modify, and propose your changes. 
+
+## 🙏 Acknowledgements
+
+A heartfelt thanks to all maintainers, contributors, and everyone involved. Your support and feedback have been invaluable. Here's to more collaborations! ❤️
+
+## 📢 Feedback
+
+Enjoyed this repository? Leave a star ⭐ and share your thoughts in the issues section. Your feedback fuels this journey!
+
+## 📜 License
+
+This repository is under the **Apache License 2.0**. Feel free to explore, use, and share. More details can be found in the [LICENSE](LICENSE) file.
