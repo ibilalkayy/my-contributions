@@ -17,8 +17,8 @@ Every pull request tells a story. Here's a snapshot of my contributions:
 <!-- Add your pull requests in this format -->
 ### 1️⃣ [Pull Request #1](https://github.com/canonical/lxd/pull/12124)
 
-**Project**: LXD (Canonical)  
-**Description**: I added commits 288 commits in on PR by adding the comments above most of the functions in the LXD repository files.
+- **Project**: LXD (Canonical)  
+- **Description**: I added commits 288 commits in on PR by adding the comments above most of the functions in the LXD repository files.
 
 ## 📚 Learning Outcomes
 
