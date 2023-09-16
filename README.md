@@ -15,10 +15,180 @@ This repository aims to:
 Every pull request tells a story. Here's a snapshot of my contributions:
 
 <!-- Add your pull requests in this format -->
-### 1️⃣ [Pull Request #1](https://github.com/canonical/lxd/pull/12124)
+### 1️⃣ [Pull Request #1](https://github.com/loftwah/linux-for-pirates/pull/22)
+
+- **Project**: Linux For Pirates  
+- **Description**: I have made all the files headings bold so that they can be better understandable..
+
+### 1️⃣ [Pull Request #2](https://github.com/loftwah/linux-for-pirates/pull/26)
+
+- **Project**: Linux For Pirates  
+- **Description**: I improved the book by adding more DevOps and Git commands in it.
+
+### 1️⃣ [Pull Request #3](https://github.com/loftwah/linux-for-pirates/pull/29)
+
+- **Project**: Linux For Pirates  
+- **Description**: I organized the book by separating the Linux, Open Source, DevRel and DevOps files.
+
+### 1️⃣ [Pull Request #4](https://github.com/loftwah/linux-for-pirates/pull/32)
+
+- **Project**: Linux For Pirates  
+- **Description**: I have added three more directories databases, design, and finance, and copied the text in them.
+
+### 1️⃣ [Pull Request #5](https://github.com/loftwah/linux-for-pirates/pull/33)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created more files by adding the operating system and the CI/CD content in a separate directory.
+
+### 1️⃣ [Pull Request #6](https://github.com/loftwah/linux-for-pirates/pull/34)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the headers to all the files that are present in the directory and added one more file that is networking.
+
+### 1️⃣ [Pull Request #7](https://github.com/loftwah/linux-for-pirates/pull/36)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the HTML data in the design file.
+
+### 1️⃣ [Pull Request #8](https://github.com/loftwah/linux-for-pirates/pull/37)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the javascript content in the design file.
+
+### 1️⃣ [Pull Request #9](https://github.com/loftwah/linux-for-pirates/pull/38)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the marketing file and added content in it.
+
+### 1️⃣ [Pull Request #10](https://github.com/loftwah/linux-for-pirates/pull/40)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the cloud file and added content in it.
+
+### 1️⃣ [Pull Request #11](https://github.com/loftwah/linux-for-pirates/pull/41)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the Git file and added content in it.
+
+### 1️⃣ [Pull Request #11](https://github.com/loftwah/linux-for-pirates/pull/42)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the Backend file and added content in it.
+
+### 1️⃣ [Pull Request #12](https://github.com/loftwah/linux-for-pirates/pull/43)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the Frontend file and added content in it.
+
+### 1️⃣ [Pull Request #14](https://github.com/loftwah/linux-for-pirates/pull/44)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the Management file and added content in it.
+
+### 1️⃣ [Pull Request #15](https://github.com/loftwah/linux-for-pirates/pull/45)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the Network Engineering file and added content in it.
+
+### 1️⃣ [Pull Request #16](https://github.com/loftwah/linux-for-pirates/pull/46)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the section in the DevOps file that how devops works.
+
+### 1️⃣ [Pull Request #17](https://github.com/loftwah/linux-for-pirates/pull/47)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added more content in the Linux file that how it works.
+
+### 1️⃣ [Pull Request #18](https://github.com/loftwah/linux-for-pirates/pull/48)
+
+- **Project**: Linux For Pirates  
+- **Description**: I created the Internet file and added content in it.
+
+### 1️⃣ [Pull Request #19](https://github.com/loftwah/linux-for-pirates/pull/50)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the kubernetes content in the Devops file.
+
+### 1️⃣ [Pull Request #20](https://github.com/loftwah/linux-for-pirates/pull/51)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the HTTP content in the networking file.
+
+### 1️⃣ [Pull Request #21](https://github.com/loftwah/linux-for-pirates/pull/52)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the SSH content in the networking file.
+
+### 1️⃣ [Pull Request #22](https://github.com/loftwah/linux-for-pirates/pull/53)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the protocols content in the networking file.
+
+### 1️⃣ [Pull Request #23](https://github.com/loftwah/linux-for-pirates/pull/54)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the SSL content in the networking file.
+
+### 1️⃣ [Pull Request #24](https://github.com/loftwah/linux-for-pirates/pull/55)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the zsh content in the linux file.
+
+### 1️⃣ [Pull Request #25](https://github.com/loftwah/linux-for-pirates/pull/55)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the zsh content in the linux file.
+
+### 1️⃣ [Pull Request #26](https://github.com/loftwah/linux-for-pirates/pull/63)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added the operation content in the operation file.
+
+### 1️⃣ [Pull Request #27](https://github.com/loftwah/linux-for-pirates/pull/67)
+
+- **Project**: Linux For Pirates  
+- **Description**: I added more YAML content.
+
+### 1️⃣ [Pull Request #28](https://github.com/loftwah/linux-for-pirates/pull/71)
+
+- **Project**: Linux For Pirates  
+- **Description**: I updated the networking section with ip address.
+
+### 1️⃣ [Pull Request #29](https://github.com/canonical/lxd/pull/12124)
 
 - **Project**: LXD (Canonical)  
 - **Description**: I added commits 388 commits in on PR by adding the comments above most of the functions in the LXD repository files.
+
+### 1️⃣ [Pull Request #30](https://github.com/kubernetes/kubernetes/pull/120634)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 3 files of the **build** directory of the Kubernetes repository.
+
+### 1️⃣ [Pull Request #31](https://github.com/kubernetes/kubernetes/pull/120653)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 6 files of the **cluster/gce/gci** directory of the Kubernetes repository.
+
+### 1️⃣ [Pull Request #32](https://github.com/kubernetes/kubernetes/pull/120658)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 5 files of the **cmd** directory of the Kubernetes repository.
+
+### 1️⃣ [Pull Request #33](https://github.com/kubernetes/kubernetes/pull/120701)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 5 files of the **cmd** directory of the Kubernetes repository.
+
+### 1️⃣ [Pull Request #34](https://github.com/kubernetes/kubernetes/pull/120704)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 5 files of the **cmd** directory of the Kubernetes repository.
+
+### 1️⃣ [Pull Request #35](https://github.com/kubernetes/kubernetes/pull/120710)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 5 files of the **cmd** directory of the Kubernetes repository.
 
 ## 📚 Learning Outcomes
 
