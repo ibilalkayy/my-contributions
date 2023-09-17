@@ -1,6 +1,6 @@
 ## 🌍 Pull Requests
 
-Every pull request tells a story. Here's a snapshot of my contributions to Linux for Pirates:
+Every pull request tells a story. Here's a snapshot of my contributions to Kubernetes:
 
 ### 🍓 [Pull Request #1](https://github.com/kubernetes-sigs/gateway-api/pull/1726)
 
