@@ -36,3 +36,8 @@ Every pull request tells a story. Here's a snapshot of my contributions to Linux
 
 - **Project**: Kubernetes  
 - **Description**: I added comments above the functions in 5 files of the **cmd** directory of the Kubernetes repository.
+
+### 🍓 [Pull Request #8](https://github.com/kubernetes/kubernetes/pull/120714)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 21 files of the **cmd** directory of the Kubernetes repository.
