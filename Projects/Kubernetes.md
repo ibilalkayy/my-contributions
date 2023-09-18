@@ -41,3 +41,8 @@ Every pull request tells a story. Here's a snapshot of my contributions to Kuber
 
 - **Project**: Kubernetes  
 - **Description**: I added comments above the functions in 21 files of the **cmd** directory of the Kubernetes repository.
+
+### 🍓 [Pull Request #9](https://github.com/kubernetes/kubernetes/pull/120722)
+
+- **Project**: Kubernetes  
+- **Description**: I added comments above the functions in 14 files of the **cmd** directory of the Kubernetes repository.
