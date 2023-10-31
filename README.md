@@ -15,6 +15,7 @@ This repository aims to:
 - [Linux for Pirates](Projects/LInux-for-Pirates.md)
 - [Canonical](Projects/Canonical.md)
 - [Kubernetes](Projects/Kubernetes.md)
+- [Grafana](Projects/Grafana.md)
 
 ## 📚 Learning Outcomes
 
