@@ -10,7 +10,7 @@ Every pull request tells a story. Here's a snapshot of my contributions to Grafa
 ### 🍓 [Pull Request #2](https://github.com/grafana/loki/pull/11131)
 
 - **Project**: Loki
-- **Description**: I added a new paragraph in the contribution guide about an error because it occurred to me and may occur to others also.
+- **Description**: I added a new paragraph in the contribution guide to avoid errors among users.
 
 ### 🍓 [Pull Request #3](https://github.com/grafana/loki/pull/11140)
 
