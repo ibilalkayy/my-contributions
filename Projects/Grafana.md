@@ -20,9 +20,9 @@ Every pull request tells a story. Here's a snapshot of my contributions to Grafa
 ### 🍓 [Pull Request #4](https://github.com/grafana/loki/pull/11214)
 
 - **Project**: Loki
-- **Description**: There were some typo mistakes that I fixed in the caching.md file and it was mentioned in the issue that I have given below.
+- **Description**: There were some typo mistakes that I fixed in the **caching.md** file.
 
 ### 🍓 [Pull Request #5](https://github.com/grafana/loki/pull/11217)
 
 - **Project**: Loki
-- **Description**: I fixed a simple typo mistake that was written as failde but I changed it to failed
+- **Description**: I fixed a simple typo mistake that was written as failde but I changed it to failed.
