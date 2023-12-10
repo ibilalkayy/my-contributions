@@ -12,10 +12,15 @@ This repository aims to:
 
 ## 🚀 Projects List
 
+- Sourcegraph
+    - [Pull Requests](Projects/Sourcegraph/Pull-Requests.md)
+    - [Issues](Projects/Sourcegraph/Issues.md)
+    - [Video Content](Projects/Sourcegraph/Video-Content.md)
 - [Linux for Pirates](Projects/LInux-for-Pirates.md)
 - [Canonical](Projects/Canonical.md)
 - [Kubernetes](Projects/Kubernetes.md)
 - [Grafana](Projects/Grafana.md)
+- [Supabase](Projects/Supabase.md)
 
 ## 📚 Learning Outcomes
 
