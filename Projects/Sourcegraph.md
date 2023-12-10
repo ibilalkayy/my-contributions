@@ -30,3 +30,12 @@ Every issues gives an idea. Here's a snapshot of my contributions to Sourcegraph
 
 - **Project**: Sourcegraph
 - **Description**: Sourcegraph setup is requiring dev-private repository but it is not present.
+
+## Video Content
+
+Every issues gives an idea. Here's a snapshot of my contributions to Sourcegraph:
+
+### 🍓 [Video #1](https://www.youtube.com/watch?v=6QktEqMngIo)
+
+- **Project**: Cody
+- **Description**: Cody Installation and Running Commands in it.
