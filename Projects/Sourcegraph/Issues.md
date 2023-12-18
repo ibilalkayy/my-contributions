@@ -11,3 +11,8 @@ Every issues gives an idea. Here's a snapshot of my contributions to Sourcegraph
 
 - **Project**: Sourcegraph
 - **Description**: Sourcegraph setup is requiring dev-private repository but it is not present.
+
+### 🍓 [Issue #3](https://github.com/sourcegraph/sourcegraph/issues/59083)
+
+- **Project**: Sourcegraph
+- **Description**: Sourcegraph gcloud require `@sourcegraph.com` in sg setup.

@@ -12,7 +12,7 @@ This repository aims to:
 
 ## 🚀 Projects List
 
-- Sourcegraph
+- [Sourcegraph](Projects/Sourcegraph)
     - [Pull Requests](Projects/Sourcegraph/Pull-Requests.md)
     - [Issues](Projects/Sourcegraph/Issues.md)
     - [Video Content](Projects/Sourcegraph/Video-Content.md)
