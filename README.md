@@ -1,6 +1,6 @@
-# PR-Journey 🌟
+# my-contributions 🌟
 
-Welcome to my **PR-Journey** repository! Here, I document my contributions and pull requests across various projects. Dive in and witness my journey through the realm of open source! 🚀
+Welcome to my **my-contributions** repository! Here, I document my contributions and pull requests across various projects. Dive in and witness my journey through the realm of open source! 🚀
 
 ## 🎯 Repository Goals
 
@@ -12,11 +12,9 @@ This repository aims to:
 
 ## 🚀 Projects List
 
+- [Weaviate](Projects/Weaviate.md)
 - [Sourcegraph](Projects/Sourcegraph)
-    - [Pull Requests](Projects/Sourcegraph/Pull-Requests.md)
-    - [Issues](Projects/Sourcegraph/Issues.md)
-    - [Video Content](Projects/Sourcegraph/Video-Content.md)
-- [Linux for Pirates](Projects/LInux-for-Pirates.md)
+- [Linux for Pirates](Projects/Linux-for-Pirates.md)
 - [Canonical](Projects/Canonical.md)
 - [Kubernetes](Projects/Kubernetes.md)
 - [Grafana](Projects/Grafana.md)

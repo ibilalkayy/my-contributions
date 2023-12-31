@@ -10,7 +10,7 @@ Every pull request tells a story. Here's a snapshot of my contributions to Sourc
 ### 🍓 [Pull Request #2](https://github.com/sourcegraph/sourcegraph/pull/58872)
 
 - **Project**: Sourcegraph
-- **Description**: I Fixed the typo mistake by changing the word from code to cody.
+- **Description**: I fixed the typo mistake by changing the word from code to cody.
 
 ### 🍓 [Pull Request #3](https://github.com/sourcegraph/sourcegraph/pull/58873)
 
