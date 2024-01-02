@@ -26,3 +26,23 @@ Every pull request tells a story. Here's a snapshot of my contributions to Weavi
 
 - **Project**: weaviate-io
 - **Description**: I fixed typos in the weaviate-clients file. Some of them, I added and some of them, I removed.
+
+### 🍓 [Pull Request #6](https://github.com/weaviate/weaviate-io/pull/1510)
+
+- **Project**: weaviate-io
+- **Description**: I added an edit link to the quickstart guide.
+
+### 🍓 [Pull Request #7](https://github.com/weaviate/weaviate-io/pull/1511)
+
+- **Project**: weaviate-io
+- **Description**: I added an edit link to the create instance guide.
+
+### 🍓 [Pull Request #8](https://github.com/weaviate/weaviate-io/pull/1512)
+
+- **Project**: weaviate-io
+- **Description**: I added an edit link to the authentication guide.
+
+### 🍓 [Pull Request #9](https://github.com/weaviate/weaviate-io/pull/1513)
+
+- **Project**: weaviate-io
+- **Description**: I added an edit link to the console guide.
