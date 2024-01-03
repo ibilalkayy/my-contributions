@@ -12,7 +12,7 @@ This repository aims to:
 
 ## 🚀 Projects List
 
-- [Weaviate](Projects/Weaviate.md)
+- [Weaviate](Projects/Weaviate)
 - [Sourcegraph](Projects/Sourcegraph)
 - [Linux for Pirates](Projects/Linux-for-Pirates.md)
 - [Canonical](Projects/Canonical.md)
