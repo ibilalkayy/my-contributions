@@ -2,7 +2,7 @@
 
 Every pull request tells a story. Here's a snapshot of my contributions to Weaviate:
 
-### 🍓 [Pull Request #1](https://github.com/sourcegraph/sourcegraph/pull/58871)
+### 🍓 [Pull Request #1](https://github.com/weaviate/weaviate-io/pull/1504)
 
 - **Project**: weaviate-io
 - **Description**: I fixed a typo mistake in which the word `get` was repeated multiple times.
