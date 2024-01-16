@@ -46,3 +46,13 @@ Every pull request tells a story. Here's a snapshot of my contributions to Weavi
 
 - **Project**: weaviate-io
 - **Description**: I added an edit link to the console guide.
+
+### 🍓 [Pull Request #10](https://github.com/weaviate/weaviate-io/pull/1553)
+
+- **Project**: weaviate-io
+- **Description**:  I fixed the typo by changing `teh` word to `the` word correctly.
+
+### 🍓 [Pull Request #11](https://github.com/weaviate/weaviate-io/pull/1554)
+
+- **Project**: weaviate-io
+- **Description**: I corrected the sentence that has a little bit mistake so I correct that mistake and wrote it with the previous one.
