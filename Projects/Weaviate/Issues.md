@@ -6,3 +6,8 @@ Every issues gives an idea. Here's a snapshot of my contributions to Weaviate:
 
 - **Project**: weaviate-io
 - **Description**: The edit page links should be added.
+
+### 🍓 [Issue #2](https://github.com/weaviate/weaviate-cli/issues/69)
+
+- **Project**: weaviate-cli
+- **Description**: eaviate CLI rebuilding with new features.
