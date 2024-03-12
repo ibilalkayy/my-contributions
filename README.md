@@ -6,13 +6,12 @@ Welcome to my **my-contributions** repository! Here, I document my contributions
 
 This repository aims to:
 
-- Track my progress in open source contributions
-- Encourage others to start their journey in open source
+- Track my progress in open-source contributions
+- Encourage others to start their journey in open-source
 - Provide a collaborative space to share experiences and feedback
 
 ## 🚀 Projects List
 
-- [Weaviate](Projects/Weaviate)
 - [Sourcegraph](Projects/Sourcegraph)
 - [Linux for Pirates](Projects/Linux-for-Pirates.md)
 - [Canonical](Projects/Canonical.md)
